@@ -47,7 +47,7 @@ Precompiled binaries are available for some operating systems. Tdshey can be fou
 
 ## Running V-Xtractor
 
- - Download	from http://www.cmde.science.ubc.ca/mohn/software.html or here  V-Xtractor/vxtractor.pl
+ - Download	from http://www.cmde.science.ubc.ca/mohn/software.html or here https://github.com/carden24/V-Xtractor/blob/master/vxtractor.pl
 
 #### Input file and running V-Xtractor
 
@@ -57,4 +57,4 @@ Example:perl vxtractor.pl -a -r .V1-V3. -h HMMs/bacteria/ -o out.fasta  in.fasta
  -- this will extract V1 through V3, for bacteria, from the file in.fasta and
     save the results to out.fasta, checking correct order of V1, V2, and V3.
 
-### We have included all the Hidden Markov models for the different regoions in this compressed file V-Xtractor/HMMs.zip
+### We have included all the Hidden Markov models for the different regoions in this compressed file https://github.com/carden24/V-Xtractor/blob/master/HMMs.zip
