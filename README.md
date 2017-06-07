@@ -25,9 +25,8 @@ The full installation instructions can be found in the file UsersGuide.pdf
 Quick installation instructions can be found below.
 
 
-
-
-# Perl and HMMER
+## Requirements
+### Perl and HMMER
 
 Perl is available at http://www.perl.org/
 
@@ -46,13 +45,13 @@ V-Xtractor running on HMMER version 2 can be provided on request.
 Precompiled binaries are available for some operating systems. They can be found in the "binaries/" directory after the unpacking the tarball. Installing the package takes nothing more than moving these binaries wherever you want them (e.g. /usr/local/bin).
 
 
-# V-Xtractor
+## V-Xtractor
 
  - download	http://www.cmde.science.ubc.ca/mohn/software.html
  - unpack	"unzip vxtractor.pl"
 
 
-# Input file and running V-Xtractor
+#### Input file and running V-Xtractor
 
 Use sequences in FASTA formatted input file. Copy FASTA file to directory containing vxtractor.pl. Move into this directory with "cd path/". Typing "perl vxtractor.pl" lists all options of the program.
 
