@@ -10,6 +10,11 @@ V-Xtractor: an open-source, high-throughput software tool to identify and extrac
 Abstract:
 V-Xtractor (http://www.cmde.science.ubc.ca/mohn/software.html) uses Hidden Markov Models to locate, verify, and extract defined hypervariable sequence segments (V1-V9) from bacterial, archaeal, and fungal small-subunit rRNA sequences. With a detection efficiency of 99.6% and low susceptibility to false-positives, this tool refines data reliability and facilitates subsequent analysis in community assays
 
+
+Code is also hosted at Martin Hartmann's website: http://www.microbiome.ch/software
+Please contact him if you need more information, I was a postdoc in the lab where the tool was developed but I am not the owner of the code or the project.
+
+
 Source code available at:
 http://www.cmde.science.ubc.ca/mohn/software.html
 
